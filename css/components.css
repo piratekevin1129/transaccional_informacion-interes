@@ -103,16 +103,16 @@ h1, h2, h3, h4, h5, h6 { font-family: 'Barlow-bold', sans-serif; font-weight: 70
 .main-section .user-details h4 { font-size: 18px; color: #53565A;}
 .main-section .user-activity p { font-size: 15px;}
 
-.main-section .section-1 { background: rgb(0,51,160); background: linear-gradient(180deg, rgba(0,51,160,1) 0%, rgba(0,51,160,1) 50%, rgba(248,248,248,1) 50%, rgba(248,248,248,1) 100%); padding: 3rem 0;}
-.main-section .section-1 .transactional-title h4 { position: relative; color: #ffffff; text-transform: uppercase; letter-spacing: .5px; font-size: 22px; margin: 0px;}
+.main-section .section-1 { background: rgb(0,51,160); background: linear-gradient(180deg, rgba(0,51,160,1) 0%, rgba(0,51,160,1) 50%, rgba(248,248,248,1) 50%, rgba(248,248,248,1) 100%); padding: 1rem 0;}
+.main-section .section-1 .transactional-title h4 { position: relative; color: #ffffff; text-transform: uppercase; letter-spacing: .5px; font-size: 21px; margin: 0px;}
 .main-section .section-1 .transactional-title h4:before { content: ""; position: absolute; top: 13px; left: 0; width: 36%; height: 3px; background: #ffffff;}
 .main-section .section-1 .transactional-title h4:after { content: ""; position: absolute; top: 13px; right: 0; width: 36%; height: 3px; background: #ffffff;}
-.main-section .section-1 .transactional .card .card-body { padding: 1.5rem}
-.main-section .section-1 .transactional .card img { width: 130px; max-width: 100%; display: block; margin: 30px auto;}
-.main-section .section-1 .transactional .card .card-title { font-size: 18px; color: #0033A0; text-align: center; padding-bottom: 18px; border-bottom: 1px solid #DDDDDE;}
-.main-section .section-1 .transactional .card .card-text { font-size: 16px; }
-.main-section .section-1 .transactional .card .card-footer { background: #ffffff; border: none;}
-.main-section .section-1 .transactional .card .card-footer a.btn { font-family: 'Barlow-bold'; color: #0033A0; border: 2px solid #0033A0; transition: background-color 0.2s, color 0.2s; -webkit-transition: background-color 0.2s, color 0.2s;}
+.main-section .section-1 .transactional .card .card-body { padding: 15px; padding-bottom: 0px;}
+.main-section .section-1 .transactional .card img { width: 110px; max-width: 100%; display: block; margin: 20px auto;}
+.main-section .section-1 .transactional .card .card-title { font-size: 16px; color: #0033A0; text-align: center; padding-bottom: 10px; border-bottom: 1px solid #DDDDDE;}
+.main-section .section-1 .transactional .card .card-text { font-size: 14px; }
+.main-section .section-1 .transactional .card .card-footer { background: #ffffff; border: none; padding: 10px;}
+.main-section .section-1 .transactional .card .card-footer a.btn { font-family: 'Barlow-bold'; color: #0033A0; border: 2px solid #0033A0; transition: background-color 0.2s, color 0.2s; -webkit-transition: background-color 0.2s, color 0.2s; height: 35px; line-height: normal;}
 .main-section .section-1 .transactional .card .card-footer a.btn:hover { background: #0033A0 !important; color: #FFFFFF !important; border: 2px solid #0033A0;}
 
 .main-section .section-1 .profile-form .form-box-md { width: 75%;}
